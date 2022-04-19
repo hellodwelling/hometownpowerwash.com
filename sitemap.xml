@@ -2,3 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://hometownpowerwash.com/index</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/store</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/reviews</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/gallery-All</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/gallery-Decks</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/gallery-Hard-Surfaces</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/gallery-Homes</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Driveway-&-Sidewalk-Cleaning</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Warehouse-Cleaning</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Fence-Washing</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Home-Softwash</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Decks-&-Patios</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Deck-Restoration</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Retaining-Walls</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Painting-Preparation</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hometownpowerwash.com/service-Hardscape-&-Pool-Deck-Cleaning</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
